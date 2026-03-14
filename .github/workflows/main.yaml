@@ -79,4 +79,4 @@ jobs:
               -e DB_NAME=attendance_db \
               ${{ secrets.DOCKER_USERNAME }}/flask-attendance-app
 
-          EOF
+          EOF 
